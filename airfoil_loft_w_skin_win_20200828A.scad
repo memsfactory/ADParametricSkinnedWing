@@ -1,3 +1,6 @@
+//https://github.com/memsfactory/ADParametricSkinnedWing/blob/master/airfoil_loft_w_skin_win_20200828A.scad
+//Thank you to all the Openscad library codes who made this possible.
+
 use <scad-utils/transformations.scad>
 use <BOSL2/std.scad>  //The order is important due to conflicts?
 use <scad-utils/skin.scad>
