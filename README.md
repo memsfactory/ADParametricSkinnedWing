@@ -9,3 +9,5 @@ Requires use of scad-utils library and BOSL2 libraries.
 https://github.com/OskarLinde/scad-utils/blob/master/LICENSE
 
 https://github.com/revarbat/BOSL2
+
+![Image of sample wing from code](https://raw.githubusercontent.com/memsfactory/ADParametricSkinnedWing/master/Clipboard01.jpg)
